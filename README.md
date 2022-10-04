@@ -8,14 +8,14 @@ Course Materials of the Data Mining for Security Applications Class
 ## Week 1
 
 ### Lab
-* [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/00_Jupyter-Intro.ipynb)
-* [Python tutorial: Working with Variables](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/01_variables.ipynb)
-* [Python tutorial: Working with Strings](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/02_strings.ipynb)
-* [Python tutorial: Data structures](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/03_data_structures.ipynb)
-* [Python tutorial: Control Flows](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/04_control_flow.ipynb)
-* [Python tutorial: Functions](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/05_functions.ipynb)
-* [Python tutorial: Classes](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/06_classes.ipynb)
-* [Python tutorial: Modules](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Python_Tutorial/07_modules.ipynb)
+* [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/00_Jupyter-Intro.ipynb)
+* [Python tutorial: Working with Variables](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/01_variables.ipynb)
+* [Python tutorial: Working with Strings](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/02_strings.ipynb)
+* [Python tutorial: Data structures](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/03_data_structures.ipynb)
+* [Python tutorial: Control Flows](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/04_control_flow.ipynb)
+* [Python tutorial: Functions](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/05_functions.ipynb)
+* [Python tutorial: Classes](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/06_classes.ipynb)
+* [Python tutorial: Modules](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/07_modules.ipynb)
 
 
 ### Assignment
