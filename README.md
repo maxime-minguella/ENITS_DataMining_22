@@ -5,7 +5,7 @@ Course Materials of the Data Mining for Security Applications Class
 * You need a *Google* account to run the notebooks in *Colab*.
 * You need to save your work in *Colab*! *Use download*, *save to google drive* or push to *github* to secure your work
 
-## Week 1
+## Week 1 + 2
 
 ### Lab
 * [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/00_Jupyter-Intro.ipynb)
