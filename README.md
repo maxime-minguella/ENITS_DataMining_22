@@ -27,11 +27,13 @@ Course Materials of the Data Mining for Security Applications Class
 * [Assignment week 1+2 - due 10/20](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb)
 
 
-## Week 3
+## Week 2
 
 ### Lecture
-* [Statistics and Wrangling](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lecture_02_Basic_Statistics_Data_Wrangling.ipynb)
+* [Statistics and Wrangling](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_Basic_Statistics_Data_Wrangling.ipynb)
 * [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_GroupBy.ipynb)
+
+## Week 3
 
 ### Lab
 * [Pandas Intro](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lab_pandas_01_Intro.ipynb)
@@ -44,4 +46,4 @@ Course Materials of the Data Mining for Security Applications Class
 
 ### Assignements
 * [Assignment 2.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_1.ipynb) 
-* [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Assignment_2.ipynb) 
+* [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_2.ipynb) 
