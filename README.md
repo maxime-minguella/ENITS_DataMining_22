@@ -27,11 +27,6 @@ Course Materials of the Data Mining for Security Applications Class
 * [Assignment week 1+2 - due 10/20](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb)
 
 
-## Week 2
-
-### Lecture
-* [Statistics and Wrangling](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_Basic_Statistics_Data_Wrangling.ipynb)
-* [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_GroupBy.ipynb)
 
 ## Week 3
 ### Lecture
