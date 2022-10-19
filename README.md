@@ -34,6 +34,8 @@ Course Materials of the Data Mining for Security Applications Class
 * [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_GroupBy.ipynb)
 
 ## Week 3
+### Lecture
+* [Tensor Algebra](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lecture_03_02_Tensor_Algebra.ipynb)
 
 ### Lab
 * [Pandas Intro](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lab_pandas_01_Intro.ipynb)
