@@ -17,8 +17,11 @@ Course Materials of the Data Mining for Security Applications Class
 * [Python tutorial: Classes](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/06_classes.ipynb)
 * [Python tutorial: Modules](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Python_Tutorial/07_modules.ipynb)
 
+### Interactive Slides (click to execute)
+* [Data Wrangling](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_Basic_Statistics_Data_Wrangling.ipynb)
+* [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/Lecture_02_GroupBy.ipynb)
 
 ### Assignment
 **NOTE: upload your solution in Moodle by 8am, Thursday the week after the lab seesion**
 
-* [Assignment 1.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb)
+* [Assignment week 1+2 - due 10/20](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb)
