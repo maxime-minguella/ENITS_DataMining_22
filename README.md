@@ -61,3 +61,11 @@ Please work through the MatplotLib notebook.
 ### Assignements
 * [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) 
 * [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -
+
+## Week 5
+
+### Lecture
+* [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/05_Statistics_Part_II.ipynb)
+
+### Lab + Assignment
+* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
