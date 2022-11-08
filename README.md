@@ -67,5 +67,4 @@ Please work through the MatplotLib notebook.
 ### Lecture
 * [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/05_Statistics_Part_II.ipynb)
 
-### Lab + Assignment
-* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
+
