@@ -24,7 +24,7 @@ Course Materials of the Data Mining for Security Applications Class
 ### Assignment
 **NOTE: upload your solution in Moodle by 8am, Thursday the week after the lab seesion**
 
-* [Assignment week 1+2 - due 10/20](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb)
+* [Assignment week 1+2 - due 10/20](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Assignment-01.ipynb) -> [**solution**](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_1/Solution-1.ipynb)
 
 
 
@@ -42,8 +42,8 @@ Course Materials of the Data Mining for Security Applications Class
 * [Pandas Reshape](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lab_pandas_07_reshape.ipynb) 
 
 ### Assignements
-* [Assignment 2.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_1.ipynb) 
-* [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_2.ipynb) 
+* [Assignment 2.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_1.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_1.ipynb)
+* [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_2.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_2.ipynb)
 
 ## Week 4
 
@@ -59,12 +59,20 @@ Please work through the MatplotLib notebook.
 * [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/SelfStudy_Matplotlib-Intro.ipynb)
 
 ### Assignements
-* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) 
-* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -
+* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.1_Solution.ipynb)
+* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.2_Clustering.ipynb)  -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_4/Assignment_4.2_Solution.ipynb)
 
 ## Week 5
 
 ### Lecture
 * [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/05_Statistics_Part_II.ipynb)
 
+## Week 6
+### Lecture
+* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb)
+ 
+### Lab
+* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/Lab_FraudDetection_Part_II.ipynb)
 
+### Assingment
+* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
