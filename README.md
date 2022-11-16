@@ -42,8 +42,8 @@ Course Materials of the Data Mining for Security Applications Class
 * [Pandas Reshape](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Lab_pandas_07_reshape.ipynb) 
 
 ### Assignements
-* [Assignment 2.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_1.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_1.ipynb)
-* [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_2.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_2.ipynb)
+* [Assignment 3.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_1.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_1.ipynb)
+* [Assignment 3.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_3/Assignment_2.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_2/solution_2.ipynb)
 
 ## Week 4
 
@@ -75,4 +75,4 @@ Please work through the MatplotLib notebook.
 * [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/Lab_FraudDetection_Part_II.ipynb)
 
 ### Assingment
-* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
+* [Lab+Assignment 6.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/LabAndAssignment_FraudDetection.ipynb)
