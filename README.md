@@ -71,8 +71,6 @@ Please work through the MatplotLib notebook.
 ### Lecture
 * [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb)
  
-### Lab
-* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/Lab_FraudDetection_Part_II.ipynb)
 
 ### Assingment
 * [Lab+Assignment 6.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/LabAndAssignment_FraudDetection.ipynb)
